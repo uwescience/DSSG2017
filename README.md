@@ -3,6 +3,9 @@
 To create a new post:
 
 - Clone this repo.
+```
+    git clone https://github.com/uwescience/DSSG2017
+```
 
 - Posts need to be added as new markdown files in the `_posts` directory. 
   File names need to be something like `2017-06-16-example-post.md`. Note that 
