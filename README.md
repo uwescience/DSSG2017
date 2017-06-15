@@ -22,11 +22,6 @@ To create a new post:
   writing it.
 
 - The site is automatically rendered at [http://uwescience.github.io/DSSG2017/](http://uwescience.github.io/DSSG2017/)
-
-- To test how the website looks locally before publishing, you need to set up [Jekyll](https://jekyllrb.com/) (a static website generator). For more information about the markdown syntax
-  that you can use to write posts, add links, images, etc., refer to the
-  example post that is already there, and to the
-  [Jekyll documentation](https://jekyllrb.com/docs/home/)
   
 - Images go into the `assets/images` directory.
 
@@ -40,6 +35,17 @@ To create a new post:
   ```
   <img src="{{site.url}}/assets/images/picture.png" align="left" style="margin: 0 10px 10px 0">
   ```
+  
+- To test how the website looks locally before publishing, you need to set up [Jekyll](https://jekyllrb.com/) (a static website generator). For more information about the markdown syntax
+  that you can use to write posts, add links, images, etc., refer to the
+  example post that is already there, and to the
+  [Jekyll documentation](https://jekyllrb.com/docs/home/)
+  
+- Markdown Editors:
+  * Mac: [Macdown](https://macdown.uranusjr.com/)
+  * Cross-Platform: [Atom + Markdown Preview Package](https://atom.io/)
+  * Cross-Platform: [Brackets](http://brackets.io/)
+  * Web-based: http://dillinger.io/)
 
 
 
