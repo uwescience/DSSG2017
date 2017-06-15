@@ -27,6 +27,17 @@ To create a new post:
   that you can use to write posts, add links, images, etc., refer to the
   example post that is already there, and to the
   [Jekyll documentation](https://jekyllrb.com/docs/home/)
+  
+- Images go into the `assets/images` directory.
+
+Using Markdown Syntax:
+
+![picture ]({{ site.url }}/assets/images/picture.png)
+
+Using HTML Syntax:
+
+<img src="{{site.url}}/assets/images/picture.png" align="left" style="margin: 0 10px 10px 0">
+
 
 
 
