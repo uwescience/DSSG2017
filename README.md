@@ -32,12 +32,14 @@ To create a new post:
 
 Using Markdown Syntax:
 
+```
 ![picture ]({{ site.url }}/assets/images/picture.png)
+```
 
 Using HTML Syntax:
-
+```
 <img src="{{site.url}}/assets/images/picture.png" align="left" style="margin: 0 10px 10px 0">
-
+```
 
 
 
