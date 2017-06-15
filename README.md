@@ -30,16 +30,16 @@ To create a new post:
   
 - Images go into the `assets/images` directory.
 
-Using Markdown Syntax:
+  Using Markdown Syntax:
 
-```
-![picture ]({{ site.url }}/assets/images/picture.png)
-```
+  ``` 
+  ![picture ]({{ site.url }}/assets/images/picture.png)
+  ```
 
-Using HTML Syntax:
-```
-<img src="{{site.url}}/assets/images/picture.png" align="left" style="margin: 0 10px 10px 0">
-```
+  Using HTML Syntax:
+  ```
+  <img src="{{site.url}}/assets/images/picture.png" align="left" style="margin: 0 10px 10px 0">
+  ```
 
 
 
