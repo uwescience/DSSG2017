@@ -1,0 +1,8 @@
+name: Data Science for Social Good 2016
+description: The University of Washington eScience Institute
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+google_analytics: 'UA-79514605-1'
+gems: [jekyll-paginate]
