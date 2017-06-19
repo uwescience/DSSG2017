@@ -46,10 +46,12 @@ The most obvious lesson here is the fragility and ephemerality of data. Preservi
 
 Given this broader context, we thought of the Tree of Hope as a symbolic gesture welcoming the voices of marginalized community members. This made the tree’s demise doubly sad.
  
-Making your data walk worthwhile
+## Making your data walk worthwhile
  
 Reflecting on the value of the experience overall, our group had a few thoughts (based on trial and error!) about how to get the most out of a data walk.
  
 The eScience Institute’s resident anthropologists had prepared us for the data walk by asking all the DSSG fellows to share their definitions of “data science for social good”, then synthesizing our responses into several major themes. Even though we self-selected into smaller groups based on themes that interested us, we found ourselves floundering at the beginning of the walk. It wasn’t until we latched on to a specific research question/issue (homelessness) that we gained a sense of direction. We noticed a similar shift from theme to issue in presentations given by the other data walk groups. Our advice is to be prepared for some initial confusion as the group negotiates their different understandings of the purpose of the walk; second, to head in a direction that seems likely to be data rich, giving your group plenty of material to work with; and third, to look for a question or issue that can emerge from the location and give a stronger sense of direction to the rest of the walk.
+
+## Conclusions
 
 Despite our clunky start and the fairly short time we spent walking around the University District, our group had several insights that changed the way we might approach a study of homelessness in Seattle. We realized data related to the drivers of homelessness might not come from places where it is most visible, and that some types of relevant data are not regularly recorded (like uneventful police encounters with homeless residents) and must be directly observed or crowdsourced. Mike and Maya's interviewing (mis)adventures also illustrated in a very overt way the fact that the identity, disposition, and outlook of an analyst can influence the data that are acquired. For us, experiencing data in this embodied way enriched our conversation and helped us think about how we might approach our projects this summer.
