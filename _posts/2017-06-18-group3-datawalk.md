@@ -24,7 +24,7 @@ By the time we left 15th Ave, our pursuit was more clear. We were looking for ev
  
 As we turned down the Ave, we ran into a group of bicycle cops having a conversation with a group of homeless people. We thought we would make the most of our natural rubbernecking response, and see the “data angle” in this conversation. What could we learn about data from a few cops chatting with homeless people (the cops left shortly, after giving us a sardonic wave as Mitch took pictures)?
 
-![police](https://github.com/uwescience/DSSG2017/blob/master/_posts/2017-06-18-group3-datawalk/police.png)
+![police](https://github.com/uwescience/DSSG2017/blob/master/assets/images/2017-06-18-group3-datawalk/police.png)
 
 Mitch immediately thought to understand this through the prism of a research question. What if we were working on a project involving homelessness in Seattle? Well, our data might consist of arrests for vagrancy, which are typically released to the public. So the concept we’re curious about is homelessness, and the data we might use are arrests for homelessness. But the concept and data don’t quite add up, and the interaction between cops illustrates why --- not all interactions with cops result in arrests. We can only guess the reasons (the mood of the police officers, how polite the homeless people are, the time of day, whether or not people are watching etc.), but each of these potential factors is a potential source of bias in any future analysis.
  
@@ -38,11 +38,11 @@ The interviews prompted a discussion among the team regarding the concept of soc
  
 Our walk ended with a visit to the “Tree of Hope”, a public art project erected by University Temple United Methodist Church and resembling [other trees scattered around the city](https://www.babble.com/parenting/wishing-tree-seattle-washington-community/). I had passed by the tree when it was in full glory, its branches covered by dozens of little cards with prayers and wishes scrawled on them. I thought we might see some interesting grassroots data but we found only a forlorn skeleton, stripped nearly bare by Seattle rain:
 
-![toh](https://github.com/uwescience/DSSG2017/blob/master/_posts/2017-06-18-group3-datawalk/toh.png)
+![toh](https://github.com/uwescience/DSSG2017/blob/master/assets/images/2017-06-18-group3-datawalk/toh.png)
 
 The most obvious lesson here is the fragility and ephemerality of data. Preserving data—digital or otherwise—is a challenging task that requires institutional support and ongoing curation; data needs care and feeding. But we also considered the Tree of Hope in light of University Temple’s many [homeless outreach programs](http://www.utemple.org/ministries/outreach-ministries/) and its many signs and banners of welcome, standing in sharp contrast with prominent, official signage outside the post office merely one block away:
 
-![signs](https://github.com/uwescience/DSSG2017/blob/master/_posts/2017-06-18-group3-datawalk/signs.png)
+![signs](https://github.com/uwescience/DSSG2017/blob/master/assets/images/2017-06-18-group3-datawalk/signs.png)
 
 Given this broader context, we thought of the Tree of Hope as a symbolic gesture welcoming the voices of marginalized community members. This made the tree’s demise doubly sad.
  
