@@ -41,6 +41,6 @@ In order to collaborate on refinement of concepts, we spent this week creating s
 
 [Fig. 2: Example major theme tab]({{ site.url }}assets/images/equity-w2-f2.png)
 
-# Next steps
+## Next steps
 
 In addition to these documents on Google Drive, moving forward we’ll be storing data in AWS and sharing our code via GitHub. Once data is obtained and cleaned, we expect to use structural equation modeling to enable interactive exploration of policy impacts. Stay tuned!
