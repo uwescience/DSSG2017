@@ -37,9 +37,9 @@ In order to collaborate on refinement of concepts, we spent this week creating s
 - **User research:** Building on a stakeholder analysis workshop conducted by [DSSG’s resident ethnographers,](http://escience.washington.edu/research-project/ethnography-of-data-science-collaborations/) we created a document for resarching the functionality and UI that various target user groups may expect.
 - **Wishlist:** We created a catch-all document to complement the user research document, where we can capture our own ideas about potential tool features and useful site content to accompany the tool.
 
-![Fig. 1: Indicators overview tab]({{ site.url }}assets/images/equity-w2-f1.png)
+![Fig. 1: Indicators overview tab]({{ site.url }}/assets/images/equity-w2-f1.png)
 
-![Fig. 2: Example major theme tab]({{ site.url }}assets/images/equity-w2-f2.png)
+![Fig. 2: Example major theme tab]({{ site.url }}/assets/images/equity-w2-f2.png)
 
 ## Next steps
 
