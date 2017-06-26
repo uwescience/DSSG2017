@@ -4,8 +4,6 @@ title:  "Data Walk: Construction"
 date:   2017-06-16
 author: Brett Bejcek, Hillary Dawkins, Daniel Dylewsky, Krista Jones, Anamol Pundle, Wenhao Zhang
 ---
-# Data Walk: Construction
-
 ### Our Story
 ![datawalkl0]({{ site.url }}/assets/images/datawalk0.jpg){:width="250px" align="right" style="PADDING-LEFT: 5px; PADDING-BOTTOM: 5px;"}
 [Data walking](http://datawalking.com/) is the process of wandering around and reflecting on the data that you encounter. The idea is to learn to look for data in everyday objects and in your surroundings. As you wander, you should discuss what data means to you, how you know when data is present, how data can be different for different people, and how transmission of data affects real life. You should also interview some people that you meet to understand different perspectives. Reflecting as you walk, your mission and themes of interest can evolve over time.  
@@ -39,12 +37,12 @@ After an hour spent reflecting on the information content of our immediate surro
 
 ### Our Takeaways
 
-[Anamol](https://uwescience.github.io/DSSG2017//2017/06/16/anamol.html) (Interviewer):  “”
-[Brett](https://uwescience.github.io/DSSG2017//2017/06/16/brett-intro.html) (Photographer): “Data doesn’t always belong in databases.”
-[Daniel](https://uwescience.github.io/DSSG2017//2017/06/16/Daniel-Dylewsky.html) (Navigator): “Our viewpoints are shaped as much by data scarcity as by the data itself”
-[Hillary](https://uwescience.github.io/DSSG2017//2017/06/16/Hillary_Dawkins.html) (Collector): “Data depends on the observer”
-[Krista](https://uwescience.github.io/DSSG2017//2017/06/16/Krista-intro.html) (Note-taker): “The best data is not useful if you get it two weeks after you needed it...”
-[Wenonah](https://uwescience.github.io/DSSG2017//2017/06/16/wenonah-testingPost.html) (Map-maker): “Good data is the one get communicated.”
+* [Anamol](https://uwescience.github.io/DSSG2017//2017/06/16/anamol.html) (Interviewer):  “Data can often be found in unexpected places.”
+* [Brett](https://uwescience.github.io/DSSG2017//2017/06/16/brett-intro.html) (Photographer): “Data doesn’t always belong in databases.”
+* [Daniel](https://uwescience.github.io/DSSG2017//2017/06/16/Daniel-Dylewsky.html) (Navigator): “Our viewpoints are shaped as much by data scarcity as by the data itself.”
+* [Hillary](https://uwescience.github.io/DSSG2017//2017/06/16/Hillary_Dawkins.html) (Collector): “Data depends on the observer.”
+* [Krista](https://uwescience.github.io/DSSG2017//2017/06/16/Krista-intro.html) (Note-taker): “The best data is not useful if you get it two weeks after you needed it...”
+* [Wenonah](https://uwescience.github.io/DSSG2017//2017/06/16/wenonah-testingPost.html) (Map-maker): “Good data is the one get communicated.”
 
 ### Our Advice (if you are considering a Data Walk)
 
