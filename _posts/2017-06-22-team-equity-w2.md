@@ -38,7 +38,7 @@ In order to collaborate on refinement of concepts, we spent this week creating s
     - **Indicators** tab tracks indicators by source and theme (see figure below).
     - **Interventions** tab tracks interventions by source and actor (public, private, nonprofit).
     - **Impact of interventions** maps interventions onto the indicators they affect.
-- **Data dictionary:** We created a document for tracking datasets—their contents, origin, spatial unit, and any notes of interest. 
+- We created a **data dictionary** for tracking datasets (which will be stored on AWS): who is the data author? what indicators does the dataset contain? etc.
 - **User research:** Building on a stakeholder analysis workshop conducted by [DSSG’s resident ethnographers,](http://escience.washington.edu/research-project/ethnography-of-data-science-collaborations/) we created a document for resarching the functionality and UI that various target user groups may expect.
 
 ![Fig. 1: Indicators sample](../assets/images/equity-w2-f1.png)
