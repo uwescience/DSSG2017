@@ -29,7 +29,7 @@ Our challenge is much different. Before we start working with data, we have to d
 
 In order to collaborate on refinement of concepts, we spent this week creating shared artifacts and workspaces to help us coordinate our work, build efficiently on each other’s efforts, and improve the reproducibility of our final project:
 
-![Fig. 0: Documents overview]({{ site.url }}/assets/images/equity-w2-f0.png)
+![Fig. 0: Documents overview](../assets/images/equity-w2-f0.png)
 
 - We created a **bibliography** in which to store citations or links to useful resources --- articles, websites, similar projects, data visualizations, etc. This is essentially a staging area to hold resources until we have a chance to interact with them and extract useful information.
 - **Questions & definitions** is a document for capturing and managing the ideas and definitions we extract from resources. This lays the foundation for pages with *explanatory content* on the final website.
@@ -41,7 +41,7 @@ In order to collaborate on refinement of concepts, we spent this week creating s
 - **Data dictionary:** We created a document for tracking datasets—their contents, origin, spatial unit, and any notes of interest. 
 - **User research:** Building on a stakeholder analysis workshop conducted by [DSSG’s resident ethnographers,](http://escience.washington.edu/research-project/ethnography-of-data-science-collaborations/) we created a document for resarching the functionality and UI that various target user groups may expect.
 
-![Fig. 1: Indicators sample]({{ site.url }}/assets/images/equity-w2-f1.png)
+![Fig. 1: Indicators sample](../assets/images/equity-w2-f1.png)
 
 ## Next steps
 
