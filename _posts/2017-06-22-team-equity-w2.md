@@ -19,7 +19,7 @@ This summer, building on work by [DC Action for Children,](http://datatools.dcac
 
 ## Unique challenges
 
-As we looked around the WRF Data Science Studio the second week of the DSSG program, it seemed like other fellows were already up to their elbows in data. Not us! In sharing our alarm with each other, we came to realize that our team’s project is fundamentally different from the other 2017 DSSG projects, and that our process this summer will reflect that difference. 
+As we looked around the WRF Data Science Studio the second week of the DSSG program, it seemed like other fellows were already up to their elbows in data. Not us! In sharing our alarm with each other, we came to realized that our team’s project is fundamentally different from the other 2017 DSSG projects, and that our process this summer will reflect that difference. 
 
 The other DSSG teams are tackling three major data analysis projects, trying to determine the impact of a new light rail station on transit traffic; to extract policy implications from a multi-country collection of agriculturally-relevant datasets; and to identify patterns in downtown Seattle traffic cruising data. Their challenge is to take existing datasets—either single datasets or data collections that have been thoughtfully assembled—and mine them for insights.
 
@@ -29,17 +29,19 @@ Our challenge is much different. Before we start working with data, we have to d
 
 In order to collaborate on refinement of concepts, we spent this week creating shared artifacts and workspaces to help us coordinate our work, build efficiently on each other’s efforts, and improve the reproducibility of our final project:
 
-- **Research questions:** We created a document for capturing literature-oriented research questions, like “What’s the role of businesses in gentrification?”.
-- **Bibliography:** We created a bibliography and started adding sources and annotations. In addition to helping us read efficiently as a team, a bibliography has value in its own right and will likely be published alongside the final tool.
-- **Glossary:** We created a document to record definitions of key terms as we extract and synthesize them from the literature.
-- **Metrics:** Project leads Gundula and Rachel provided a preliminary list of indicators grouped into six major themes with additional subthemes. We translated this into a spreadsheet to use as a shared workspace for listing, grouping, and choosing indicators. The first tab (fig 1) provides a dynamically-populated overview of all indicators, arranged by major theme; the remaining tabs each deal with a major theme (fig 2 provides an example), with individual team members taking ownership of specific themes and responsible for identifying indicators that best illuminate their theme. 
-- **Data dictionary:** We created a document for tracking datasets—their contents, origin, spatial unit, and any notes of interest. 
+![Fig. 0: Documents overview](../assets/images/equity-w2-f0.png)
+
+- We created a **bibliography** in which to store citations or links to useful resources --- articles, websites, similar projects, data visualizations, etc. This is essentially a staging area to hold resources until we have a chance to interact with them and extract useful information.
+- **Questions & definitions** is a document for capturing and managing the ideas and definitions we extract from resources. This lays the foundation for pages with *explanatory content* on the final website.
+- The **wishlist** captures our ideas for tool features and website content, which may be inspired by resources drawn from the bibliography.
+- **Indicators & interventions** is for extracting crucial information from our sources: how have various studies conceptualized/measured gentrification and urban equity? What interventions have been proposed or attempted, with what effect? We'll be choosing our datasets based on this literature review, so it's important to be thorough here. We're using a spreadsheet with a couple of tabs:
+    - **Indicators** tab tracks indicators by source and theme (see figure below).
+    - **Interventions** tab tracks interventions by source and actor (public, private, nonprofit).
+    - **Impact of interventions** maps interventions onto the indicators they affect.
+- We created a **data dictionary** for tracking datasets (which will be stored on AWS): who is the data author? what indicators does the dataset contain? etc.
 - **User research:** Building on a stakeholder analysis workshop conducted by [DSSG’s resident ethnographers,](http://escience.washington.edu/research-project/ethnography-of-data-science-collaborations/) we created a document for resarching the functionality and UI that various target user groups may expect.
-- **Wishlist:** We created a catch-all document to complement the user research document, where we can capture our own ideas about potential tool features and useful site content to accompany the tool.
 
-![Fig. 1: Indicators overview tab](../assets/images/equity-w2-f1.png)
-
-![Fig. 2: Example major theme tab](../assets/images/equity-w2-f2.png)
+![Fig. 1: Indicators sample](../assets/images/equity-w2-f1.png)
 
 ## Next steps
 
