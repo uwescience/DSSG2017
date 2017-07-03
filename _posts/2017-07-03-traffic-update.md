@@ -2,7 +2,7 @@
 layout: post
 title:  "Perusing Cruising: A Suggestion for Congestion"
 date:   2017-07-03
-author: Brett Bejcek
+author: Cruising Team
 ---
 ![City_View]({{ site.url }}/assets/images/city.jpg){:width="200px" align="right" style="PADDING-LEFT: 5px; PADDING-BOTTOM: 5px;"}
 Congestion is troublesome in Seattle
