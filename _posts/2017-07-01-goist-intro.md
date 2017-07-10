@@ -4,6 +4,7 @@ title: "Introducting DSSG Fellow Mitchell Goist"
 date: "2017-07-1"
 author: Mitchell Goist
 ----
+![mitch ]({{ site.url }}/assets/images/me.jpg)
 
 I'm coming to DSSG after finishing the fourth year of my program in Political
 Science at Penn State. My dissertation is focused on state--sponsored death
