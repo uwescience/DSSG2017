@@ -1,9 +1,9 @@
-----
+---
 layout: post
 title: "Introducting DSSG Fellow Mitchell Goist"
 date: "2017-07-1"
 author: Mitchell Goist
-----
+---
 
 <img src="{{ site.url }}/assets/images/me.jpg" alt="mitch" width="200px">
 
