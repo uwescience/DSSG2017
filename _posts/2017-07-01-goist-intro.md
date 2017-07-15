@@ -1,10 +1,11 @@
-----
+---
 layout: post
 title: "Introducting DSSG Fellow Mitchell Goist"
 date: "2017-07-1"
 author: Mitchell Goist
-----
-![mitch ]({{ site.url }}/assets/images/me.jpg)
+---
+
+<img src="{{ site.url }}/assets/images/me.jpg" alt="mitch" width="200px">
 
 I'm coming to DSSG after finishing the fourth year of my program in Political
 Science at Penn State. My dissertation is focused on state--sponsored death
@@ -39,11 +40,11 @@ dismiss these people as misguided idiots, and, since (ostensibly) we don't
 think of ourselves as misguided idiots, problem solved! But as people who
 thinks probabilistically (being data scientists and all), it's likely we're
 at the same position in both the intellect and common sense distributions as
-our blundering forebearers. 
+our blundering forebearers.
 
 Take, for example, international development, a subject that I spent my first
 two years of graduate school studying. In the immediate aftermath of
-decolonization, the largest recipients of foreign aid were Congo and Somalia. Foreign donors continued to gush about Rwanda as a development success story up until the genocide. Not exactly a picture of economic and political success! 
+decolonization, the largest recipients of foreign aid were Congo and Somalia. Foreign donors continued to gush about Rwanda as a development success story up until the genocide. Not exactly a picture of economic and political success!
 
 The consistent failure of otherwise well-intentioned individuals to achieve
 social good outcomes points us to an inescapable fact. Social processes are
