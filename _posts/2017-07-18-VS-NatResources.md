@@ -4,7 +4,7 @@ title:  "Vital Signs: Natural Resource Use and Implications for Household Spendi
 date:   2017-07-17
 author: Krista Jones and the Vital Signs Team
 ---
-Our first DSSG Vital Signs blogpost is now live, both here and on their [website](http://vitalsigns.org/blog/natural-resource-use-and-implications-household-spending-ghana-and-uganda)! 
+Our first DSSG Vital Signs blogpost is now live, both here and on the Vital Signs [website](http://vitalsigns.org/blog/natural-resource-use-and-implications-household-spending-ghana-and-uganda)! 
 <br>
 
 Non-Timber Forest Products (NTFPs) supplement the incomes of rural
