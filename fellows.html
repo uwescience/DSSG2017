@@ -15,14 +15,14 @@ cover: false
         <div class="main-header-content inner">
           <a href="{{site.url}}"><img src="{{ site.baseurl }}/assets/images/uwescience-dssg.png"></a>
           <h4>
-                <a href='http://escience.washington.edu/dssg'> About DSSG </a>
-                &nbsp;
-                <a href='http://escience.washington.edu/dssg/project-summaries-2017/'> Projects</a>
-                &nbsp;
-                <a href="http://escience.washington.edu"> eScience Institute </a>
-                &nbsp;
-                <a href="https://uwescience.github.io/DSSG2017/fellows.html"> Fellows</a>
-                &nbsp;
+            <a href='http://escience.washington.edu/dssg/project-summaries-2017/'> Projects</a>
+            &nbsp;
+            <a href="https://uwescience.github.io/DSSG2017/fellows.html"> Fellows</a>
+            &nbsp;
+            <a href='http://escience.washington.edu/dssg'> About DSSG </a>
+            &nbsp;
+            <a href="http://escience.washington.edu"> eScience Institute </a>
+            &nbsp;
           </h4>
         </div>
     </div>
@@ -38,7 +38,6 @@ cover: false
 
     {% for post in site.categories.fellows %}
 
-
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -51,7 +50,7 @@ cover: false
                 {{ post.author }}
             {% endif %}
             {% if post.categories.size > 0 %}
-                {{ post.categories | array_to_sentence_string | prepend: 'on ' }}
+                {{ post.categories | array_to_sentence_string | prepend: 'in ' }}
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
@@ -60,5 +59,4 @@ cover: false
     </article>
 
     {% endfor %}
-    {% include pagination.html %}
 </main>
