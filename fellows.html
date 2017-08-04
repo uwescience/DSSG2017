@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Home
 cover: false
-about: 'about.html'
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
@@ -38,7 +36,7 @@ about: 'about.html'
         {% include pagination.html %}
     </div>
 
-    {% for post in site.categories.updates %}
+    {% for post in site.categories.fellows %}
 
     <article class="post">
         <header class="post-header">
@@ -59,5 +57,6 @@ about: 'about.html'
             </time>
         </footer>
     </article>
+
     {% endfor %}
 </main>
