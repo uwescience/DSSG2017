@@ -5,9 +5,6 @@ title:  "A data walk on The Ave and the stories behind it"
 date:   2017-06-16
 author: Mayuree, Mike, Mitch, Jacob, Maya
 ---
-
-# A data walk on The Ave and the stories behind it
-
 Event: a data walk  
 Time: Jun 12, 2017  
 Location: University Way (The Ave), Seattle, WA 
