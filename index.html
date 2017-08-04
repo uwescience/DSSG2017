@@ -53,14 +53,12 @@ about: 'about.html'
                 {{ post.author }}
             {% endif %}
             {% if post.categories.size > 0 %}
-                {{ post.categories | array_to_sentence_string | prepend: 'on ' }}
+                {{ post.categories | array_to_sentence_string | prepend: 'in ' }}
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
             </time>
         </footer>
     </article>
-
     {% endfor %}
-    {% include pagination.html %}
 </main>
