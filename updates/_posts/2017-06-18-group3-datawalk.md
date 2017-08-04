@@ -5,14 +5,17 @@ title:  "A data walk on The Ave and the stories behind it"
 date:   2017-06-16
 author: Mayuree, Mike, Mitch, Jacob, Maya
 ---
+
+## Beginning the Data Walk
+
 Event: a data walk  
 Time: Jun 12, 2017  
 Location: University Way (The Ave), Seattle, WA 
 People: Mayuree, Mike, Mitch, Jacob, Maya and Anissa
- 
-## Beginning the Data Walk
- 
+  
 The data walk was an interesting experience for us. We had no idea where to begin the data walk and how to search for questions that could help us understand our surroundings in terms of data. As we began the data walk, we first took a halt near the Physics and Astronomy tower and tried to figure out the area in University District where we could walk to gain some interesting insights about it. We all came to a conclusion that the University Way or “The Ave” would be the best area for us to begin with as it's full of diversity in terms of infrastructure and culture. We began walking towards the University Way. Although , we had chosen the area for our data walk, but 2 minutes into the walk we realised that we did not have a specific data-related question which we could explore. We halted for the second time and brainstormed the kind of questions that we could explore on the Ave. After approximately 2 minutes , we decided to explore the various data related aspects of Homelessness and the various factors affecting data related to homeless population on the Ave.
+ 
+<!--excerpt-->
  
 ## Unforeseen Perils of Interviewing Strangers
                    
