@@ -1,0 +1,32 @@
+<main id="content" class="content" role="main">
+
+    <div class="extra-pagination inner">
+        {% include pagination.html %}
+    </div>
+
+    {% for post in site.categories.introductions %}
+
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <section class="post-excerpt">
+            {{ post.excerpt }} <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            {% if post.author %}
+                {{ post.author }}
+            {% endif %}
+            {% if post.categories.size > 0 %}
+                {{ post.categories | array_to_sentence_string | prepend: 'on ' }}
+            {% endif %}
+            <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
+                {{ post.date | date_to_string }}
+            </time>
+        </footer>
+    </article>
+
+    {% endfor %}
+    {% include pagination.html %}
+</main>

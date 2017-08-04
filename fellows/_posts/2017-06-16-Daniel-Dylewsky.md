@@ -1,6 +1,6 @@
 ---
 layout: post
-category: introductions
+category: fellows
 title:  "Introducing DSSG Fellow Daniel Dylewsky"
 date:   2017-06-16
 author: Daniel Dylewsky

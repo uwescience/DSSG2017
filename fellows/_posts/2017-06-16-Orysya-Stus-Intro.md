@@ -1,6 +1,6 @@
 ---
 layout: post
-category: introductions
+category: fellows
 title:  "Introducing DSSG Fellow Orysya Stus"
 date:   2017-06-16
 author: Orysya Stus
