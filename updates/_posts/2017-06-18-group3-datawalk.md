@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title:  "A data walk on The Ave and the stories behind it"
 date:   2017-06-16
 author: Mayuree, Mike, Mitch, Jacob, Maya

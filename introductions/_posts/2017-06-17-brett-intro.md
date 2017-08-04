@@ -1,5 +1,6 @@
 ---
 layout: post
+category: introductions
 title:  "Introducing DSSG Fellow Brett Bejcek"
 date:   2017-06-16
 author: Brett Bejcek

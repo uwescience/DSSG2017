@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title: "Buffets & menus #TeamEquity"
 date: 2017-06-30
 author: Jacob Kovacs, Jacob Rich

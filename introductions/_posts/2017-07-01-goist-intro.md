@@ -1,5 +1,6 @@
 ---
 layout: post
+category: introductions
 title: "Introducing DSSG Fellow Mitchell Goist"
 date: "2017-07-1"
 author: Mitchell Goist

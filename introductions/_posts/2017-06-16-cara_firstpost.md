@@ -1,5 +1,6 @@
 ---
 layout: post
+category: introductions
 title:  "Introducing DSSG Fellow Cara Arizmendi"
 date:   2017-06-16
 author: Cara Arizmendi

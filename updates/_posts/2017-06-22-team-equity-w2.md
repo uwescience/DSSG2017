@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title:  "Getting things started! #TeamEquity"
 date:   2017-06-23
 author: Jacob Kovacs
