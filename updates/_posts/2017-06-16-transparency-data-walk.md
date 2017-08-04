@@ -8,6 +8,8 @@ author: Cara Arizmendi, Andrew Ju, Jacob Rich, Robert Shaffer, Orysya Stus
  
 ## Introduction
 How do people in their communities interact with data, and to what extent are those data accessible? In urban environments, data on construction and urban development initiatives are widely available. However, the extent to which individuals engage with these data is unclear. For our data walk, we surveyed street-level construction information available near Lake Union in Seattle’s U District, with a particular focus on signage and noticeboards. Though data is potentially a powerful tool for public good, it becomes clear that it is still just a tool and that the complications and difficult choices of any land use public policy are still present. 
+
+<!--excerpt-->
  
 The walk raised several questions about how data is made available and how the community responds to data.
 

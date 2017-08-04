@@ -10,6 +10,8 @@ The Cascadia Urban Analytics Cooperative (CUAC) Summit took place at the Univers
 summit focused on bringing together the DSSG fellows and researchers from the University of Washington and University of British
 Columbia as well as Microsoft representatives to discuss social good opportunities, projects, and research.
 
+<!--excerpt-->
+
 For the Cruising Team, this was an opportunity to discuss our project progression and share our ideas with the UBC DSSG fellows.In particular,
 the fellows working on the Surrey Transportation Project discussed possible approaches for determining representative cruising signatures
 through clustering and evaluating meaningful cost functions.
