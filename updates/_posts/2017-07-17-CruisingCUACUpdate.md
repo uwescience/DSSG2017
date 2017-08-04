@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title:  "Thoughts on CUAC Summit"
 date:   2017-07-17
 author: Cruising Team

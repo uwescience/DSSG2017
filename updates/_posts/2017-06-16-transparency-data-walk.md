@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title:  "Data Walk: Accountability, Transparency, Accessibility, and Openness"
 date:   2017-06-16
 author: Cara Arizmendi, Andrew Ju, Jacob Rich, Robert Shaffer, Orysya Stus

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title:  "Data Walk: Construction"
 date:   2017-06-16
 author: Brett Bejcek, Hillary Dawkins, Daniel Dylewsky, Krista Jones, Anamol Pundle, Wenhao Zhang

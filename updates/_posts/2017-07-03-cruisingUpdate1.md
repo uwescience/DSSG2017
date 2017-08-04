@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title:  "Getting acquainted with our city"
 date:   2017-07-03
 author: Cruising Team

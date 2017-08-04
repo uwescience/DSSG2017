@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title:  "Perusing Cruising: A Suggestion for Congestion"
 date:   2017-07-03
 author: Cruising Team
