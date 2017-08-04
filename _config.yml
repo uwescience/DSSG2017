@@ -3,7 +3,7 @@ description: The University of Washington eScience Institute
 markdown: kramdown
 highlighter: rouge
 logo: false
-paginate: 15
+#paginate: 15
 baseurl: https://uwescience.github.io/DSSG2017/
 url: https://uwescience.github.io/DSSG2017/
 domain_name: 'http://uwescience.github.io/DSSG2017'
