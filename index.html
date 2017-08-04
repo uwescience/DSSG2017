@@ -23,7 +23,7 @@ about: 'about.html'
                 &nbsp;
                 <a href="http://escience.washington.edu"> The eScience Institute </a>
                 &nbsp;
-                <a href="https://uwescience.github.io/DSSG2017//introductions"> Fellow Introductions </a>
+                <a href="https://uwescience.github.io/DSSG2017/introductions"> Fellow Introductions </a>
                 &nbsp;
           </h4>
         </div>
@@ -38,8 +38,8 @@ about: 'about.html'
         {% include pagination.html %}
     </div>
 
+    {% for post in site.categories.updates %}
 
-    {% for post in paginator.posts %}
 
     <article class="post">
         <header class="post-header">
