@@ -1,6 +1,6 @@
 ---
 layout: post
-category: introductions
+category: fellows
 title:  "Introducing DSSG Fellow Wenonah Zhang"
 date:   2017-06-16
 author: Wenhao Wenonah Zhang

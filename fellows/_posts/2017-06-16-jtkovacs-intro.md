@@ -1,6 +1,6 @@
 ---
 layout: post
-category: introductions
+category: fellows
 title:  "Introducing DSSG Fellow Jacob Kovacs"
 date:   2017-06-16
 author: Jacob Kovacs
