@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fellows
-title:  "Mike Vlah Bio"
+title:  "Introducing Data Science Fellow Mike Vlah"
 date:   2017-06-16
 author: Mike Vlah
 ---
