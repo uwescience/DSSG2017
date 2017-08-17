@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fellows
-title:  "Introducing Data Science Fellow Mike Vlah"
+title:  "Introducing DSSG Fellow Mike Vlah"
 date:   2017-06-16
 author: Mike Vlah
 ---
